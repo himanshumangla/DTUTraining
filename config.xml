@@ -96,6 +96,7 @@
         <gap:plugin name="com.parse.cordova.core.pushplugin" version="0.1.0" />
         <gap:plugin name="org.apache.cordova.camera" spec="0.3.6" source="pgb" />
         <gap:plugin name="cordova-plugin-actionsheet" source="npm" />
+        <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
         <!--<gap:plugin name="de.appplant.cordova.plugin.local-notification" />-->
         <!--<gap:plugin name="com.medlei.pushplugin" version="0.1.2" >
             <param name="APP_ID" value="tm6167dNDqCXavTDGxrJlbQq08Q6gXDvE7i6iXFA" />
